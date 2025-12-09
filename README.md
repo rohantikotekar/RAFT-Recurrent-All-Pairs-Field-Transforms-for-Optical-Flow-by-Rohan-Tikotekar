@@ -78,3 +78,4 @@ You can optionally use our alternate (efficent) implementation by compiling the 
 cd alt_cuda_corr && python setup.py install && cd ..
 ```
 and running `demo.py` and `evaluate.py` with the `--alternate_corr` flag Note, this implementation is somewhat slower than all-pairs, but uses significantly less GPU memory during the forward pass.
+# RAFT-Recurrent-All-Pairs-Field-Transforms-for-Optical-Flow-by-Rohan-Tikotekar
