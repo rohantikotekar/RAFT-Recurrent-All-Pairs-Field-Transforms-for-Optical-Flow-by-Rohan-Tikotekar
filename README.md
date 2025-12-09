@@ -12,9 +12,11 @@
 
 *Original Paper: [RAFT: Recurrent All Pairs Field Transforms for Optical Flow](https://arxiv.org/pdf/2003.12039.pdf) - ECCV 2020*
 
+*Implementation video recording by Rohan Tikotekar: https://drive.google.com/file/d/1DWUD1YhBWhCMHFeTFREpHL9-dZ0yiWKW/view?usp=sharing
 </div>
 
 ---
+
 
 ## 📋 Table of Contents
 - [Overview](#-overview)
